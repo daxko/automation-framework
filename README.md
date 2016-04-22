@@ -6,9 +6,9 @@
 
 1. We work in an agile environment and most of our teams use scrum. We use User Stories as artifacts when developing new features. Identify three features that you would like be added to the EZ Contact Manager. Then create a user story for each feature. Be sure to include helpful acceptance criteria.
 
-1. Push your code to either github or bitbucket and provide a link so we can view the code. Please send this to the bmayhew@daxko.com prior to your presentation.
+1. Push your code to either github or bitbucket and provide a link so we can view the code. Please send this to bmayhew@daxko.com prior to your presentation.
 
-1. Extra Credit: Make the framework better! If you use the below framework, show off an area where you made the framework easier to use, more DRY, ect. If you are using your own framework show off things that you have built to make the framework easier to use, more DRY, ect. Be ready to give more examples of how you could make the framework better with more time.
+1. Extra Credit: Make the framework better! If you use the below framework, show off an area where you made the framework easier to use, more DRY, etc. If you are using your own framework show off things that you have built to make the framework easier to use, more DRY, etc. Be ready to give more examples of how you could make the framework better with more time.
 
 You’ll have 30 minutes to discuss your homework with a team of potential peers. We like to ask questions, but you’re in charge for these 30 minutes, so present the information however you’re most comfortable (handouts, presentation, demo, etc). We’ll have a white board and projector available to you. Be sure to emphasize “why” you chose your approach. How you think is more important than “getting it right”.  
 
