@@ -18,7 +18,7 @@ We at Daxko are currently using a framework written in Ruby that makes use of th
 * Page-Object - https://github.com/cheezy/page-object
 * Rspec - http://rspec.info/
 
-For task 1 & 2, you are free to using whichever automation framework you like. We care a lot more about how your brain will approach the problem, than the tool you use to implement your solution. If you enjoy using the same tools that we do, then you can use this one!
+For the homework, you are free to using whichever automation framework you like. We care a lot more about how your brain will approach the problem, than the tool you use to implement your solution. If you enjoy using the same tools that we do, then you can use this one!
 
 ## Regression Framework Suite
 
