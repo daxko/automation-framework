@@ -5,9 +5,8 @@
 	* Windows: http://railsinstaller.org/en
 	* OSX: http://rvm.io/rvm/install
 * `gem install bundler` if bundler is not already installed
-* `bundle` to install required gems.  (You need to run this whenever pulling down this repo with new changes)
-* `rspec spec/signup_spec.rb` to run a single test and verify it's working
-* `rspec` to run all tests.
+* `bundle install` to install required gems.  (You need to run this whenever pulling down this repo with new changes)
+* `rspec` to run the test and verify it's working
 
 ## Use Chrome instead of FireFox
 * If you want to use chrome for watir testing (recommended because it's faster), you need to download the chromedriver and put it in your PATH.
