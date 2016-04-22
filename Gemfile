@@ -3,4 +3,5 @@ source 'https://rubygems.org' do
   gem 'watir-webdriver'
   gem 'page-object'
   gem 'faker'
+  gem 'rubocop'
 end
