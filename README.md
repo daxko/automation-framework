@@ -25,28 +25,21 @@ We're using the [page-object](https://github.com/cheezy/page-object) gem to wrap
 * [Simple DSL](https://github.com/cheezy/page-object/wiki/Simple-DSL)
 * [Ajax Calls](https://github.com/cheezy/page-object/wiki/Ajax-Calls)
 
-#### jqueryui_widgets
-
-The Page-Object gem creator has created a widget for [jqueryui elements](https://github.com/cheezy/jqueryui_widgets/tree/master/lib/jqueryui_widgets). There is no clear documentation but there are good examples.
-
 #### faker
 The [faker](https://github.com/stympy/faker) can be used to generate random fake data within tests.
 
 #### RSpec
-
 * [RSpec Expecations syntax](https://www.relishapp.com/rspec/rspec-expectations/docs/built-in-matchers)
 
 ## Writing Tests
 
 #### Structure
-* **lib/pages** contains objects that represent a page in ops.  Example: home_page.rb maps to the home page in EZ Contactor.
-* **spec/** contains the tests
+* **lib/pages** contains objects that represent a webpage in the application.  Example: home_page.rb maps to the home page in EZ Contactor.
+* **spec/** contains the automated checks
 
-#### Rules
+#### Conventions
 1. A given lib/pages/whatever_page.rb file should map to a single web page.
 1. Test in watir the absolute minimum that's required since these tests are slow and more brittle than hitting the database directly.
  
 #### Things to consider when writing tests
 1. We've run into several scenarios where workflows are very similar or an abstraction could be made. We decided simplicity, readability, and accessibility are more valuable than conciseness in many cases. If you have a series of tests with a bunch of if conditions trying to determine what state the tests need to run, it's probably better to duplicate that test for each mode. 
-
-
