@@ -10,6 +10,7 @@
 /test/version_tmp/
 /tmp/
 .idea/
+Gemfile.lock
 
 ## Specific to RubyMotion:
 .dat*
